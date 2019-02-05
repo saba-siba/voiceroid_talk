@@ -3,6 +3,8 @@
 python初心者だけどプログラムからボイロを動かしたい、と思ったのでいろんなページをみて書きました
 作ったなら公開したほうが自分のためになるかなと
 
+事前準備：pywin32をインストール
+
 参考
 (http://bttb.s1.valueserver.jp/wordpress/blog/2017/09/24/python%E3%81%A7windowsapi%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6gui%E6%93%8D%E4%BD%9C%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96/)
 
